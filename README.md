@@ -35,11 +35,11 @@ Document
 ### Blazor webapp <a name="webapp"></a>
 
   
-    - [ ] Finish Blazor Learn module
-    - [ ] Implement a basic website containing the required fields/functionality
-    ##### Optional
-    - [ ] Set up Github Actions to build/release when pushed to repo
-    - [ ] Set up Github Actions to let Azure build/release when pushed to repo
+- [x] Finish Blazor Learn module
+- [ ] Implement a basic website containing the required fields/functionality
+##### Optional
+- [ ] Set up Github Actions to build/release when pushed to repo
+- [ ] Set up Github Actions to let Azure build/release when pushed to repo
 
 ### Azure Container Registry (Storing Docker images for the app)<a name="containerregistry"></a>
 
